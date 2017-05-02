@@ -21,4 +21,4 @@ A text-based adventure game clone of The Oregon Trail video game updated for the
 
 The finished application can be viewed by visiting:
 
-<https://www.mission-trail.herokuapps.com>
+<https://mission-trail.herokuapp.com/>
